@@ -1,7 +1,5 @@
 
-
-```markdown
-# 📦 Storeroom Checklist Pro
+# 📦 Stock Pro
 
 A complete inventory management system for storerooms, warehouses, and donation centers with real-time tracking, history logging, and advanced analytics.
 
