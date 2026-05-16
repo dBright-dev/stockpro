@@ -147,6 +147,12 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
             }
 
+            val fabAnalytics = findViewById<FloatingActionButton>(R.id.fabAnalytics)
+            fabAnalytics.setOnClickListener {
+                val intent = Intent(this, AnalyticsActivity::class.java)
+                startActivity(intent)
+            }
+
             // Clear filters button
             clearFiltersButton.setOnClickListener {
                 clearAllFilters()
