@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "437081553511",
+    "project_id": "slipmanagement-f7ebd",
+    "storage_bucket": "slipmanagement-f7ebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437081553511:android:cf62c8d5a8440c7933b2c2",
+        "android_client_info": {
+          "package_name": "com.company.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHzukYFtqLU52EijOiEFOYw6ITEhx7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437081553511:android:50fbf44225f1c50233b2c2",
+        "android_client_info": {
+          "package_name": "com.dbrightsites.stockapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHzukYFtqLU52EijOiEFOYw6ITEhx7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437081553511:android:5bc6aa4b1a5c196233b2c2",
+        "android_client_info": {
+          "package_name": "com.example.mystockapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHzukYFtqLU52EijOiEFOYw6ITEhx7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
