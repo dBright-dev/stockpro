@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_50">#F3E5F5</color>
     <color name="teal_50">#E0F2F1</color>
+    <color name="splash_bg">#FFFFFF</color>
+    <color name="logo_bg">#FFFFFF</color>
 </resources>
